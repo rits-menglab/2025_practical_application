@@ -13,7 +13,7 @@
 GitHubのレポジトリをクローンする
 
 ```bash
-!git clone https://github.com/rits-menglab/2024_practical_application
+!git clone https://github.com/rits-menglab/2025_practical_application
 ```
 
 ディレクトリを移動する
@@ -169,4 +169,5 @@ imgs[0]
 ## 研究体験2
 
 ### 異常検知
+
 [こちらのリンクから](https://colab.research.google.com/drive/1AmZH6W5Hcefy-6eb9IFY-8GqDDFTHeL_?usp=sharing)
