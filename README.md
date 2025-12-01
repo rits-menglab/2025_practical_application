@@ -141,6 +141,14 @@ imgs[0]
 
 [こちらのリンクから](https://colab.research.google.com/drive/1sBGFQpqCeAVJ54Pt7B_o88QwT9c-a5m3?usp=sharing)
 
+## 画像復元1
+
+[こちらのリンクから](https://colab.research.google.com/drive/1OyfnwADoFj3JHItbeUqUFiXF2Mq4uP4M?usp=sharing)
+
+## 画像復元2
+
+[こちらのリンクから](https://colab.research.google.com/drive/1TqgID4PnA9fFcI8TwH2Xg2hhzzowEGNO?usp=sharing)
+
 ### SegGPT
 
 [こちらのリンクから](https://colab.research.google.com/drive/1ajqgEDAT19vBg2Wzyd18PLndheEJ4CG5?usp=sharing)
@@ -172,4 +180,5 @@ imgs[0]
 ### 異常検知
 
 [こちらのリンクから](https://colab.research.google.com/drive/1AmZH6W5Hcefy-6eb9IFY-8GqDDFTHeL_?usp=sharing)
+
 
