@@ -70,6 +70,25 @@ for i in predict:
 ```
 ## 基礎実習2
 
+### パーセプトロン
+
+[こちらのリンクから](https://colab.research.google.com/drive/188BM4B5aAk1t2le7w-uPpQy_ORlTwES-?usp=sharing)
+
+### 畳み込みニューラルネットワーク
+
+[こちらのリンクから](https://colab.research.google.com/drive/1Sgi3Ic3vMp30au0rNjh96KrZP-pFxNHA?usp=sharing)
+
+### 画像生成１
+
+[こちらのリンクから](https://colab.research.google.com/drive/1dhKHkm3qHYfWKjmUERNgmRvJxKwXS4lM?usp=sharing)
+
+### 自然言語処理
+
+[こちらのリンクから](https://colab.research.google.com/drive/1wazNe_v5AnYnSAeYV4dfGz6XxH2oWgXz?usp=sharing)
+
+### 画像分割
+[こちらのリンクから](https://colab.research.google.com/drive/1D6InfWOwsKNsE9jL9oJC6vaUPR-Ovd_p?usp=sharing)
+
 ### 物体検出
 
 GitHubのレポジトリをクローンする
@@ -120,21 +139,6 @@ for img in paths:
 imgs[0]
 ```
 
-### 画像生成１
-
-[こちらのリンクから](https://colab.research.google.com/drive/1dhKHkm3qHYfWKjmUERNgmRvJxKwXS4lM?usp=sharing)
-
-### 自然言語処理
-
-[こちらのリンクから](https://colab.research.google.com/drive/1wazNe_v5AnYnSAeYV4dfGz6XxH2oWgXz?usp=sharing)
-
-### 画像分割
-[こちらのリンクから](https://colab.research.google.com/drive/1D6InfWOwsKNsE9jL9oJC6vaUPR-Ovd_p?usp=sharing)
-
-### パーセプトロン
-
-[こちらのリンクから](https://colab.research.google.com/drive/188BM4B5aAk1t2le7w-uPpQy_ORlTwES-?usp=sharing)
-
 ## 基礎実習3
 
 ### 画像生成２
@@ -157,10 +161,6 @@ imgs[0]
 
 [こちらのリンクから](https://colab.research.google.com/drive/1cCZwh0MB8txkFgIlFifi5vQm1Tk9F7gS)
 
-### 畳み込みニューラルネットワーク
-
-[こちらのリンクから](https://colab.research.google.com/drive/1Sgi3Ic3vMp30au0rNjh96KrZP-pFxNHA?usp=sharing)
-
 ### 強化学習1
 
 [こちらのリンクから](https://colab.research.google.com/drive/1XuMYlvz38LbsM1mnipjXA72TnbDpFgYB?usp=sharing)
@@ -180,5 +180,6 @@ imgs[0]
 ### 異常検知
 
 [こちらのリンクから](https://colab.research.google.com/drive/1AmZH6W5Hcefy-6eb9IFY-8GqDDFTHeL_?usp=sharing)
+
 
 
