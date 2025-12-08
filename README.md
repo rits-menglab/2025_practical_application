@@ -86,7 +86,7 @@ for i in predict:
 
 [こちらのリンクから](https://colab.research.google.com/drive/1wazNe_v5AnYnSAeYV4dfGz6XxH2oWgXz?usp=sharing)
 
-### 画像分割
+### セグメンテーション
 [こちらのリンクから](https://colab.research.google.com/drive/1D6InfWOwsKNsE9jL9oJC6vaUPR-Ovd_p?usp=sharing)
 
 ### 物体検出
@@ -180,6 +180,7 @@ imgs[0]
 ### 異常検知
 
 [こちらのリンクから](https://colab.research.google.com/drive/1AmZH6W5Hcefy-6eb9IFY-8GqDDFTHeL_?usp=sharing)
+
 
 
 
