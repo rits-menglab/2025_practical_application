@@ -86,6 +86,22 @@ for i in predict:
 
 [こちらのリンクから](https://colab.research.google.com/drive/1wazNe_v5AnYnSAeYV4dfGz6XxH2oWgXz?usp=sharing)
 
+### 画像生成２
+
+[こちらのリンクから](https://colab.research.google.com/drive/1sBGFQpqCeAVJ54Pt7B_o88QwT9c-a5m3?usp=sharing)
+
+### SegGPT
+
+[こちらのリンクから](https://colab.research.google.com/drive/1ajqgEDAT19vBg2Wzyd18PLndheEJ4CG5?usp=sharing)
+
+### 強化学習1
+
+[こちらのリンクから](https://colab.research.google.com/drive/1XuMYlvz38LbsM1mnipjXA72TnbDpFgYB?usp=sharing)
+
+### 強化学習2
+
+[こちらのリンクから](https://colab.research.google.com/drive/1f2lNmsQOl_ECVy27csxu9nMRzzLHepaE?usp=sharing)
+
 ### セグメンテーション
 [こちらのリンクから](https://colab.research.google.com/drive/1D6InfWOwsKNsE9jL9oJC6vaUPR-Ovd_p?usp=sharing)
 
@@ -139,11 +155,13 @@ for img in paths:
 imgs[0]
 ```
 
-## 基礎実習3
+## 研究体験1
 
-### 画像生成２
+### 手書き文字認識
 
-[こちらのリンクから](https://colab.research.google.com/drive/1sBGFQpqCeAVJ54Pt7B_o88QwT9c-a5m3?usp=sharing)
+[こちらのリンクから](https://colab.research.google.com/drive/1pW1VZmzsojO4F1jlX7K_9InAy1E8Tdz0?usp=sharing)
+
+## 研究体験2
 
 ## 画像復元1
 
@@ -153,33 +171,15 @@ imgs[0]
 
 [こちらのリンクから](https://colab.research.google.com/drive/1TqgID4PnA9fFcI8TwH2Xg2hhzzowEGNO?usp=sharing)
 
-### SegGPT
-
-[こちらのリンクから](https://colab.research.google.com/drive/1ajqgEDAT19vBg2Wzyd18PLndheEJ4CG5?usp=sharing)
-
-### 軽量化
-
-[こちらのリンクから](https://colab.research.google.com/drive/1cCZwh0MB8txkFgIlFifi5vQm1Tk9F7gS)
-
-### 強化学習1
-
-[こちらのリンクから](https://colab.research.google.com/drive/1XuMYlvz38LbsM1mnipjXA72TnbDpFgYB?usp=sharing)
-
-### 強化学習2
-
-[こちらのリンクから](https://colab.research.google.com/drive/1f2lNmsQOl_ECVy27csxu9nMRzzLHepaE?usp=sharing)
-
-## 研究体験1
-
-### 手書き文字認識
-
-[こちらのリンクから](https://colab.research.google.com/drive/1pW1VZmzsojO4F1jlX7K_9InAy1E8Tdz0?usp=sharing)
-
-## 研究体験2
+## 研究体験3
 
 ### 異常検知
 
 [こちらのリンクから](https://colab.research.google.com/drive/1AmZH6W5Hcefy-6eb9IFY-8GqDDFTHeL_?usp=sharing)
+
+### 軽量化
+
+[こちらのリンクから](https://colab.research.google.com/drive/1cCZwh0MB8txkFgIlFifi5vQm1Tk9F7gS)
 
 
 
